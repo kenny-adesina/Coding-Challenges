@@ -1,2 +1,2 @@
-# Coding-Challenges
+# Coding Challenges!
 Completed coding challenges in numerous languages.
